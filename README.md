@@ -38,6 +38,7 @@
 - **[STAAD.Pro](https://www.bentley.com/en/products/brands/staad)** - A widely used tool for structural analysis and design.
 - **[OpenSees](https://opensees.berkeley.edu/)** - An open-source framework for simulating structural and geotechnical systems.
 - **[Robot Structural Analysis](https://www.autodesk.com/products/robot-structural-analysis/)** - A tool for structural analysis and code-based design.
+- **[EduBeam](https://www.edubeam.app/)** - A free, open-source web app for 2D beam, frame and truss analysis.
 
 ## Geotechnical Engineering
 
